@@ -1,1 +1,1 @@
-# 7-segment-4-digit-led-counter-with-btn
+# 7-seg-4-digit-led-counter-with-btn
